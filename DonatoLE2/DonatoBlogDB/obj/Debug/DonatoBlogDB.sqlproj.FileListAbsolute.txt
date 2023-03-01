@@ -1,0 +1,10 @@
+C:\Users\lyra\source\repos\DonatoLE2\DonatoBlogDB\bin\Debug\DonatoBlogDB.dacpac
+C:\Users\lyra\source\repos\DonatoLE2\DonatoBlogDB\bin\Debug\DonatoBlogDB.dll
+C:\Users\lyra\source\repos\DonatoLE2\DonatoBlogDB\bin\Debug\DonatoBlogDB.pdb
+C:\Users\lyra\source\repos\DonatoLE2\DonatoBlogDB\obj\Debug\DonatoBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\lyra\source\repos\DonatoLE2\DonatoBlogDB\obj\Debug\Model.xml
+C:\Users\lyra\source\repos\DonatoLE2\DonatoBlogDB\obj\Debug\refactor.xml
+C:\Users\lyra\source\repos\DonatoLE2\DonatoBlogDB\obj\Debug\postdeploy.sql
+C:\Users\lyra\source\repos\DonatoLE2\DonatoBlogDB\obj\Debug\predeploy.sql
+C:\Users\lyra\source\repos\DonatoLE2\DonatoBlogDB\obj\Debug\DonatoBlogDB.dll
+C:\Users\lyra\source\repos\DonatoLE2\DonatoBlogDB\obj\Debug\DonatoBlogDB.pdb
